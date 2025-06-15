@@ -1,6 +1,6 @@
-# QuizMaster
+# Quiz-Website
 
-QuizMaster is a modern, interactive quiz web application built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**. It allows users to test their knowledge across a variety of technical domains, including DSA, HTML, CSS, JavaScript, React, TypeScript, Node.js, MongoDB, Git, and Linux.
+Quiz-Website is a modern, interactive quiz web application built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**. It allows users to test their knowledge across a variety of technical domains, including DSA, HTML, CSS, JavaScript, React, TypeScript, Node.js, MongoDB, Git, and Linux.
 
 ## Features
 
